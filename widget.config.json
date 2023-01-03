@@ -1,0 +1,21 @@
+{
+  "packageId": "wpkyVrnMm6ymP",
+  "spaceId": "spca33AJDEVhL",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "Hello World (JavaScript)",
+    "en-US": "Hello World (JavaScript)"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorName": "APITable",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://apitable.com",
+  "authorEmail": "dev@apitable.com",
+  "description": {
+    "zh-CN": "从一个最基础的 JavaScript 小程序开始开发",
+    "en-US": "Start building from a Hello World widget with JavaScript"
+  },
+  "globalPackageId": "wpkyVrnMm6ymP",
+  "sandbox": true
+}
